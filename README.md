@@ -102,4 +102,4 @@ El motor de base de datos administra los datos.
 El lenguaje SQL permite la interacción con la base de datos.
 Las aplicaciones permiten a los usuarios acceder a la información.
 El hardware soporta el sistema.
-Los usuarios utilizan y mantienen el sistema.
+Los usuarios utilizan y mantienen el sistema. 
